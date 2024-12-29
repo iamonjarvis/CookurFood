@@ -42,13 +42,15 @@ https://github.com/user-attachments/assets/9a1d9713-8647-4930-844f-6795607ca722
 
 
 ### Homepage
-*Centered search bar with meal type filters.*
+![App Screenshot](./Screenshots/Homescreen.png "Recipe Search Website Screenshot")
+
 
 ### Search Results
-*List of recipes with diet filters and a clean card layout.*
+![App Screenshot](./Screenshots/RecipeDetails.png "Recipe Search Website Screenshot")
+
 
 ### Detailed Recipe Page
-*Ingredients, instructions, and health benefits with an elegant design.*
+![App Screenshot](./Screenshots/Searchpage.png "Recipe Search Website Screenshot")
 
 ---
 
@@ -70,12 +72,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## 🌐 Live Demo
-Check out the live version of Cook Your Meal: [Cook Your Meal](https://your-live-site-link.com)
+Check out the live version of Cook Your Meal: [Cook Your Meal](https://cookur-food.vercel.app/))
 
 ---
 
 ## 📧 Contact
 For questions or feedback, reach out to:  
 **Sahil Patra**  
-Email: sahilpatra@example.com  
+Email: sahilp123456@gmail.com  
 GitHub: [iamonjarvis](https://github.com/iamonjarvis)
