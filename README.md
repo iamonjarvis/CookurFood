@@ -45,11 +45,12 @@ https://github.com/user-attachments/assets/9a1d9713-8647-4930-844f-6795607ca722
 ![App Screenshot](./Screenshots/Homescreen.png "Recipe Search Website Screenshot")
 
 
-### Search Results
+### Detailed Recipe Page
+
 ![App Screenshot](./Screenshots/RecipeDetails.png "Recipe Search Website Screenshot")
 
-
-### Detailed Recipe Page
+  
+### Search Results 
 ![App Screenshot](./Screenshots/Searchpage.png "Recipe Search Website Screenshot")
 
 ---
